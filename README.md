@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=51F565&size=24&lines=Aspiring+Software+Developer;React+Enthusiast)](https://git.io/typing-svg)
 
 
-<img align="right" width="370" height="290" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJsc2EwdjVzMGVoa3g3MmthMWNnaXJtMTRqeHRyb3E0ZWt0cmQ5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">  
+<img align="right" width="320" height="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJsc2EwdjVzMGVoa3g3MmthMWNnaXJtMTRqeHRyb3E0ZWt0cmQ5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">  
 
 - 🎓 Certified **MERN Stack Developer**  
 - 🛠️ Building projects with **Modern Tech**  
