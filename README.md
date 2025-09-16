@@ -1,25 +1,40 @@
-##  Hi 👋 This is Nambi 
-Aspiring Software Developer | React.js Enthusiast
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=51F565&size=24&lines=Hi+👋+I'm+Nambii;Aspiring+Software+Developer;React+%26+Enthusiast)](https://git.io/typing-svg)
 
-- 🌱 Certified **MERN Stack Developer**  
-- 💻 Building projects with **Morden Tech**  
-- 👨‍💻 Passionate about **React Development**  
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/nambimuthuraja)  
-- ⚡ Fun fact: I enjoy exploring new **Technologies**.
 
-- 🔭 See What I've Built  [Portfolio](https://nambimuthuraja.netlify.app/)
+<img align="right" width="370" height="290" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzE5ajd3Ymk0YmpuZjZ2d3ZhZXhmOGJmc2NibXJrYnBibDd5dHgwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">  
+
+- 🎓 Certified **MERN Stack Developer**  
+- 🛠️ Building projects with **Modern Tech**  
+- ⚛️ Passionate about **React Development**  
+- 🌐 Reach me on [LinkedIn](https://www.linkedin.com/in/nambimuthuraja)  
+- ⚡ Fun fact: I enjoy exploring **New Technologies**  
+- 🚀 See What I've Built → [Portfolio](https://nambimuthuraja.netlify.app/)  
+
 
 ### 🛠️ Languages and Tools
-<img height="50" width="50" src="https://img.icons8.com/color/48/html-5.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/css3.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/tailwindcss.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/nodejs.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/mongodb.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/html-5.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/css3.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/javascript.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/react-native.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/tailwindcss.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/fluency/48/bootstrap.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/nodejs.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/ios/50/express-js.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/mongodb.png"/>
+<img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-hypertext-preprocessor-a-widely-used-open-source-general-purpose-scripting-language-logo-shadow-tal-revivo.png" alt="external-hypertext-preprocessor-a-widely-used-open-source-general-purpose-scripting-language-logo-shadow-tal-revivo"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
 
 
 ### ⚡ Tools I Use
-<img height="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> <img height="40" src="https://img.icons8.com/color/48/git.png"/> <img height="40" src="https://img.icons8.com/color/48/github.png"/> <img height="40" src="https://img.icons8.com/color/48/figma.png"/> <img height="40" src="https://img.icons8.com/doodle/48/adobe-photoshop.png"/>
+<img height="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> 
+<img height="40" src="https://img.icons8.com/color/48/git.png"/> 
+<img height="40" src="https://img.icons8.com/color/48/github.png"/> 
+<img height="40" src="https://img.icons8.com/color/48/netlify.png"/>
+<img height="40" src="https://img.icons8.com/?size=48&id=MWiBjkuHeMVq&format=png&color=000000"/>
 
 
-![Nambi's GitHub stats](https://github-readme-stats.vercel.app/api?username=NambiMR&theme=dark&show_icons=true)  
 
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NambiMR&layout=compact&theme=dark)  
 
 [![Nambi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NambiMR&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -27,7 +42,7 @@ Aspiring Software Developer | React.js Enthusiast
 
 ### 🌐 Connect with me  
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/nambimuthuraja)  
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](https://github.com/NambiMR)  
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:nambimr2004@gmail.com)  
 
 <!---
 NambiMR/NambiMR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
