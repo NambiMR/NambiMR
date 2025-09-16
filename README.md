@@ -1,13 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=51F565&size=24&lines=Hi+👋+I'm+Nambii;Aspiring+Software+Developer;React+%26+Enthusiast)](https://git.io/typing-svg)
+# Hi 👋 I'm Nambii
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=51F565&size=24&lines=Aspiring+Software+Developer;React+Enthusiast)](https://git.io/typing-svg)
 
 
-<img align="right" width="370" height="290" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzE5ajd3Ymk0YmpuZjZ2d3ZhZXhmOGJmc2NibXJrYnBibDd5dHgwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">  
+<img align="right" width="370" height="290" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJsc2EwdjVzMGVoa3g3MmthMWNnaXJtMTRqeHRyb3E0ZWt0cmQ5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">  
 
 - 🎓 Certified **MERN Stack Developer**  
 - 🛠️ Building projects with **Modern Tech**  
-- ⚛️ Passionate about **React Development**  
+- ⚛️ Passionate about **React Development**
+- ⚡ I enjoy exploring **New Technologies** 
 - 🌐 Reach me on [LinkedIn](https://www.linkedin.com/in/nambimuthuraja)  
-- ⚡ Fun fact: I enjoy exploring **New Technologies**  
 - 🚀 See What I've Built → [Portfolio](https://nambimuthuraja.netlify.app/)  
 
 
@@ -30,7 +31,7 @@
 <img height="40" src="https://img.icons8.com/color/48/git.png"/> 
 <img height="40" src="https://img.icons8.com/color/48/github.png"/> 
 <img height="40" src="https://img.icons8.com/color/48/netlify.png"/>
-<img height="40" src="https://img.icons8.com/?size=48&id=MWiBjkuHeMVq&format=png&color=000000"/>
+<img height="40" src="https://img.icons8.com/?size=48&id=MWiBjkuHeMVq&format=png&color=FFFFFF"/>
 
 
 
